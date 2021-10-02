@@ -1,0 +1,1 @@
+Drop Trigger T2;
